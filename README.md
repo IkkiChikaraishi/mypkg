@@ -77,6 +77,9 @@ $ ros2 launch mypkg memory_listen.launch.py
   - OS : Ubuntu22.04
   - Docker ryuichiueda/ubuntu22.04-ros2:latest
 
+## 参考資料
+- https://chantastu.hatenablog.com/entry/2023/07/15/114657
+- https://qiita.com/tochisuke221/items/e95216cd8b2ccbf1a5ca
 
 ## ライセンス
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
