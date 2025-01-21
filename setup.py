@@ -1,3 +1,6 @@
+#SPDX-FileCopyrightText:2025 Ikki Chikaraishi
+#SPDX-Licence-Identifier:BSD-3-Clause
+
 from setuptools import setup
 import os
 from glob import glob

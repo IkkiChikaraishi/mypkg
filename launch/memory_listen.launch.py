@@ -1,3 +1,6 @@
+#SPDX-FileCopyrightText:2025 Ikki Chikaraishi
+#SPDX-Licence-Identifier:BSD-3-Clause
+
 import launch
 import launch.actions
 import launch.substitutions
